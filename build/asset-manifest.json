@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Employee_App_Frontend_CaseStudy/static/css/main.68a1bb91.css",
+    "main.js": "/Employee_App_Frontend_CaseStudy/static/js/main.6dda411b.js",
+    "static/js/453.32bc75fc.chunk.js": "/Employee_App_Frontend_CaseStudy/static/js/453.32bc75fc.chunk.js",
+    "index.html": "/Employee_App_Frontend_CaseStudy/index.html",
+    "main.68a1bb91.css.map": "/Employee_App_Frontend_CaseStudy/static/css/main.68a1bb91.css.map",
+    "main.6dda411b.js.map": "/Employee_App_Frontend_CaseStudy/static/js/main.6dda411b.js.map",
+    "453.32bc75fc.chunk.js.map": "/Employee_App_Frontend_CaseStudy/static/js/453.32bc75fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68a1bb91.css",
+    "static/js/main.6dda411b.js"
+  ]
+}
