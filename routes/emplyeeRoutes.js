@@ -60,16 +60,16 @@ router.get('/home',verifytoken,(req,res)=>{
 })
 
 // display employee details in normal user dashboard
-router.get('/userhome',(req,res)=>{
+// router.get('/userhome',(req,res)=>{
 
-    try {
-        employeedetails.find().then((empdetails)=>{
-            res.status(200).send(empdetails);
-        })
-    } catch (error) {
-       res.status(404).send({Message:"can not display employee details"}) 
-    }
-})
+//     try {
+//         employeedetails.find().then((empdetails)=>{
+//             res.status(200).send(empdetails);
+//         })
+//     } catch (error) {
+//        res.status(404).send({Message:"can not display employee details"}) 
+//     }
+// })
 
 
 
